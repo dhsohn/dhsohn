@@ -35,5 +35,5 @@ _Public status last changed: 2026-06-28 21:19 KST_
 - Local-only maintenance jobs: **4**
 - Current public alert posture: **green**
 
-This profile page updates only when the public-safe status changes. The detailed Automation Control Plane remains private on the local Hermes runtime.
+This profile page updates automatically when the automation status changes.
 <!-- ACP:END -->
