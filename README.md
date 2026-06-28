@@ -38,22 +38,11 @@ _Public status last changed: 2026-06-29 04:26 KST_
 
 ### Model benchmark scoreboard
 
-_Seed benchmark evidence including anti-Goodhart veto cases; scores update as comparable runs accumulate._
-
 | Model | Class | Chemistry RAG | Natural Philosophy | Coding / Repo Tasks |
 | --- | --- | --- | --- | --- |
-| GPT-5.5 / default | frontier | `█████████░` 92 <sub>n=5, medium</sub> | `▒▒▒▒▒▒▒▒░░` 85 <sub>n=4, low</sub> | `█████████░` 90 <sub>n=6, medium</sub> |
-| RAG Experts / gemma4 | local OSS | `▒▒▒▒▒▒░░░░` 60 <sub>n=3, low</sub> | `▒▒▒▒▒▒▒░░░` 67 <sub>n=3, low</sub> | `███████░░░` 72 <sub>n=5, medium</sub> |
-| Ollama / gemma4 | OSS baseline | `▒▒▒▒▒▒░░░░` 65 <sub>n=4, low</sub> | `██████░░░░` 64 <sub>n=5, medium</sub> | `██████░░░░` 64 <sub>n=5, medium</sub> |
-
-#### Scoring basis
-
-- Score is normalized to 0-100; judge `overall_score` values above 5 require an explicit report score scale or are quarantined.
-- Cases mix user-aligned `local_gold` tasks with `safety_veto` anti-Goodhart traps.
-- `n` counts distinct evaluated cases per model/domain after repeated case IDs are deduped.
-- Confidence is low below n=5, medium at n>=5, and high at n>=10 with multiple benchmark sources.
-- Weak bars mark low-confidence seed evidence; strong bars appear only for medium/high confidence.
-- The Ollama / gemma4 row is a direct Ollama baseline without RAG Experts adapter/context, shown on the same scale for side-by-side comparison.
+| GPT-5.5 / default | frontier | `█████████░` 92 <sub>n=5</sub> | `▒▒▒▒▒▒▒▒░░` 85 <sub>n=4</sub> | `█████████░` 90 <sub>n=6</sub> |
+| RAG Experts / gemma4 | local OSS | `▒▒▒▒▒▒░░░░` 60 <sub>n=3</sub> | `▒▒▒▒▒▒▒░░░` 67 <sub>n=3</sub> | `███████░░░` 72 <sub>n=5</sub> |
+| Ollama / gemma4 | OSS baseline | `▒▒▒▒▒▒░░░░` 65 <sub>n=4</sub> | `██████░░░░` 64 <sub>n=5</sub> | `██████░░░░` 64 <sub>n=5</sub> |
 
 ### Snapshot
 
