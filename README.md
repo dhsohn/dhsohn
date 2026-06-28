@@ -5,7 +5,7 @@ Building practical AI-agent systems, research automation, local-LLM learning loo
 <!-- ACP:START -->
 ## Hermes Automation Control Plane
 
-_Public status last changed: 2026-06-29 02:32 KST_
+_Public status last changed: 2026-06-29 03:33 KST_
 
 | Surface | Status |
 | --- | --- |
