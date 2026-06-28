@@ -7,18 +7,18 @@ Building practical AI-agent systems, research automation, local-LLM learning loo
 
 Public-safe operational summary. Private paths, exact schedules, delivery targets, chat IDs, logs, prompts, and internal script names are intentionally omitted.
 
-_Public status last changed: 2026-06-28 21:17 KST_
+_Public status last changed: 2026-06-28 21:18 KST_
 
 | Surface | Status |
 | --- | --- |
 | Gateway | 🟢 running |
-| Cron scheduler | 🟢 healthy |
-| Active automations | 🟢 19 enabled |
+| Cron scheduler | 🔴 attention |
+| Active automations | 🟢 20 enabled |
 | Delivery errors | 🟢 0 |
 | Kanban blockers | 🟢 0 |
 | RAG indexes | 🟢 fresh |
 | Localworker learning loop | 🟡 learning backlog |
-| Manual action needed | 🟢 none |
+| Manual action needed | red attention |
 
 ### Automation lanes
 
@@ -32,10 +32,10 @@ _Public status last changed: 2026-06-28 21:17 KST_
 
 ### Snapshot
 
-- Active scheduled automations: **19**
-- Telegram-delivered summaries/watchdogs: **15**
+- Active scheduled automations: **20**
+- Telegram-delivered summaries/watchdogs: **16**
 - Local-only maintenance jobs: **4**
-- Current public alert posture: **green**
+- Current public alert posture: **red**
 
 This profile page updates only when the public-safe status changes. The detailed Automation Control Plane remains private on the local Hermes runtime.
 <!-- ACP:END -->
