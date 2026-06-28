@@ -5,7 +5,7 @@ Building practical AI-agent systems, research automation, local-LLM learning loo
 <!-- ACP:START -->
 ## Hermes Automation Control Plane
 
-_Public status last changed: 2026-06-29 07:47 KST_
+_Public status last changed: 2026-06-29 08:48 KST_
 
 | Surface | Status |
 | --- | --- |
@@ -32,7 +32,7 @@ _Public status last changed: 2026-06-29 07:47 KST_
 
 | Domain | Learning signal | Stage | Focus |
 | --- | --- | --- | --- |
-| Natural Philosophy | `█████████░` 91% | mature | reasoning curriculum + seminar loop |
+| Natural Philosophy | `█████████░` 93% | mature | reasoning curriculum + seminar loop |
 | Chemistry RAG | `███████░░░` 70% | strong | grounded review + RAG judgment |
 | Coding / Repo Tasks | `████░░░░░░` 37% | seed | execution-backed diff/test/judge loop |
 
