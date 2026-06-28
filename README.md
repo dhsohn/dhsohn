@@ -2,11 +2,12 @@
 
 Building practical AI-agent systems, research automation, local-LLM learning loops, and knowledge workflows.
 
+<!-- ACP:START -->
 ## Hermes Automation Control Plane
 
 Public-safe operational summary. Private paths, exact schedules, delivery targets, chat IDs, logs, prompts, and internal script names are intentionally omitted.
 
-_Last updated: 2026-06-28 21:11 KST_
+_Public status last changed: 2026-06-28 21:17 KST_
 
 | Surface | Status |
 | --- | --- |
@@ -36,6 +37,5 @@ _Last updated: 2026-06-28 21:11 KST_
 - Local-only maintenance jobs: **4**
 - Current public alert posture: **green**
 
----
-
-This profile page shows only a sanitized cockpit indicator. The detailed Automation Control Plane remains private on the local Hermes runtime.
+This profile page updates only when the public-safe status changes. The detailed Automation Control Plane remains private on the local Hermes runtime.
+<!-- ACP:END -->
