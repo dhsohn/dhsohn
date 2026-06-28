@@ -5,7 +5,7 @@ Building practical AI-agent systems, research automation, local-LLM learning loo
 <!-- ACP:START -->
 ## Hermes Automation Control Plane
 
-_Public status last changed: 2026-06-28 23:46 KST_
+_Public status last changed: 2026-06-28 23:49 KST_
 
 | Surface | Status |
 | --- | --- |
@@ -38,12 +38,12 @@ _Public status last changed: 2026-06-28 23:46 KST_
 
 ### Model benchmark scoreboard
 
-_Seed benchmark evidence; scores update as comparable runs accumulate._
+_Seed benchmark evidence including anti-Goodhart veto cases; scores update as comparable runs accumulate._
 
 | Model | Class | Chemistry RAG | Natural Philosophy | Coding / Repo Tasks |
 | --- | --- | --- | --- | --- |
-| GPT-5.5 / default | frontier | `█████████░` 92 <sub>n=5, medium</sub> | `█████████░` 88 <sub>n=5, medium</sub> | `▒▒▒▒▒▒▒▒▒▒` 100 <sub>n=1, low</sub> |
-| localworker / gemma4 | local OSS | `████████░░` 76 <sub>n=5, medium</sub> | `████████░░` 80 <sub>n=5, medium</sub> | `▒▒▒▒▒▒▒▒▒▒` 100 <sub>n=1, low</sub> |
+| GPT-5.5 / default | frontier | `█████████░` 92 <sub>n=5, medium</sub> | `█████████░` 88 <sub>n=5, medium</sub> | `█████████░` 90 <sub>n=6, medium</sub> |
+| localworker / gemma4 | local OSS | `████████░░` 76 <sub>n=5, medium</sub> | `████████░░` 80 <sub>n=5, medium</sub> | `████████░░` 77 <sub>n=6, medium</sub> |
 
 ### Snapshot
 
