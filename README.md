@@ -5,7 +5,7 @@ Building practical AI-agent systems, research automation, local-LLM learning loo
 <!-- ACP:START -->
 ## Hermes Automation Control Plane
 
-_Public status last changed: 2026-06-28 23:53 KST_
+_Public status last changed: 2026-06-29 00:01 KST_
 
 | Surface | Status |
 | --- | --- |
@@ -44,6 +44,14 @@ _Seed benchmark evidence including anti-Goodhart veto cases; scores update as co
 | --- | --- | --- | --- | --- |
 | GPT-5.5 / default | frontier | `█████████░` 92 <sub>n=5, medium</sub> | `█████████░` 88 <sub>n=5, medium</sub> | `█████████░` 90 <sub>n=6, medium</sub> |
 | localworker / gemma4 | local OSS | `████████░░` 76 <sub>n=5, medium</sub> | `████████░░` 80 <sub>n=5, medium</sub> | `████████░░` 77 <sub>n=6, medium</sub> |
+
+#### Scoring basis
+
+- Score is normalized to 0-100; 1-5 judge `overall_score` values are mapped linearly.
+- Cases mix user-aligned `local_gold` tasks with `safety_veto` anti-Goodhart traps.
+- `n` counts distinct evaluated cases per model/domain after repeated case IDs are deduped.
+- Confidence is low below n=5, medium at n>=5, and high at n>=10 with multiple benchmark sources.
+- Weak bars mark low-confidence seed evidence; strong bars appear only for medium/high confidence.
 
 ### Snapshot
 
