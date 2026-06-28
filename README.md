@@ -5,8 +5,6 @@ Building practical AI-agent systems, research automation, local-LLM learning loo
 <!-- ACP:START -->
 ## Hermes Automation Control Plane
 
-Public-safe operational summary. Private paths, exact schedules, delivery targets, chat IDs, logs, prompts, and internal script names are intentionally omitted.
-
 _Public status last changed: 2026-06-28 21:19 KST_
 
 | Surface | Status |
