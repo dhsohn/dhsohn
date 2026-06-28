@@ -5,7 +5,7 @@ Building practical AI-agent systems, research automation, local-LLM learning loo
 <!-- ACP:START -->
 ## Hermes Automation Control Plane
 
-_Public status last changed: 2026-06-28 21:19 KST_
+_Public status last changed: 2026-06-28 21:44 KST_
 
 | Surface | Status |
 | --- | --- |
@@ -27,6 +27,15 @@ _Public status last changed: 2026-06-28 21:19 KST_
 | Market and community radar | Public-source digests run with deterministic-first reporting and fail-closed guards. |
 | Infrastructure watchdogs | Gateway, cron, harness, and champion-status health checks watch for actionable incidents. |
 | Kanban work queue | Durable task routing is available for multi-profile agent work; no public task details shown here. |
+
+### RAG Experts learning map
+
+| Domain | Learning signal | Stage | Focus |
+| --- | --- | --- | --- |
+| Natural Philosophy | `█████████░` 89% | mature | curriculum + seminar regressions |
+| Chemistry RAG | `█████████░` 86% | mature | KB-rich review/eval lane |
+| Market/Econ Radar | `██████░░░░` 60% | growing | deterministic-first commentary |
+| LLM Community Radar | `█████░░░░░` 51% | growing | community-signal contracts |
 
 ### Snapshot
 
