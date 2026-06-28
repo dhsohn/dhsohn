@@ -5,7 +5,7 @@ Building practical AI-agent systems, research automation, local-LLM learning loo
 <!-- ACP:START -->
 ## Hermes Automation Control Plane
 
-_Public status last changed: 2026-06-28 22:06 KST_
+_Public status last changed: 2026-06-28 22:44 KST_
 
 | Surface | Status |
 | --- | --- |
@@ -35,6 +35,15 @@ _Public status last changed: 2026-06-28 22:06 KST_
 | Natural Philosophy | `█████████░` 91% | mature | reasoning curriculum + seminar loop |
 | Chemistry RAG | `███████░░░` 70% | strong | grounded review + RAG judgment |
 | Coding / Repo Tasks | `████░░░░░░` 37% | seed | execution-backed diff/test/judge loop |
+
+### Model benchmark scoreboard
+
+_Seed benchmark evidence; scores update as comparable runs accumulate._
+
+| Model | Class | Chemistry RAG | Natural Philosophy | Coding / Repo Tasks |
+| --- | --- | --- | --- | --- |
+| GPT-5.5 / default | frontier | `██████████` 100 <sub>n=1, low</sub> | `██████████` 100 <sub>n=1, low</sub> | `██████████` 100 <sub>n=1, low</sub> |
+| localworker / gemma4 | local OSS | `██████░░░░` 60 <sub>n=1, low</sub> | `██████░░░░` 60 <sub>n=1, low</sub> | `██████████` 100 <sub>n=1, low</sub> |
 
 ### Snapshot
 
