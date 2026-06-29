@@ -7,7 +7,7 @@
 <!-- ACP:START -->
 ## 🎮 Automation RPG HUD
 
-_Auto-save timestamp: 2026-06-29 12:04 KST_
+_Auto-save timestamp: 2026-06-29 12:52 KST_
 
 > **Class:** Automation Alchemist · **Party:** Hermes agents + RAG Experts · **Mode:** deterministic-first quests
 
@@ -48,13 +48,13 @@ _Auto-save timestamp: 2026-06-29 12:04 KST_
 | Buff | Effect | State |
 | --- | --- | --- |
 | 🌀 Gateway Aura | Cross-platform command channel | 🟢 running |
-| ⏱️ Cron Haste | Scheduled quest engine | 🔴 attention |
+| ⏱️ Cron Haste | Scheduled quest engine | 🟢 healthy |
 | 🤖 Automation Party | Active companions | 🟢 21 enabled |
 | 📦 Delivery Ward | Outbound report shield | 🟢 0 |
 | 📜 Quest Board | Blocked tasks | 🟢 0 |
 | 📚 Knowledge Forge | RAG index freshness | 🟢 fresh |
 | 🧪 Apprentice Training | RAG Experts learning loop | 🟡 learning backlog |
-| 🚨 Danger Sense | Manual action needed | red attention |
+| 🚨 Danger Sense | Manual action needed | 🟢 none |
 
 ### 🗺️ Active Questlines
 
@@ -71,7 +71,7 @@ _Auto-save timestamp: 2026-06-29 12:04 KST_
 - Active companions: **21**
 - Message-raven routes: **16**
 - Local camp chores: **5**
-- Alert posture: **red**
+- Alert posture: **green**
 
 Auto-saved when public-safe telemetry changes.
 <!-- ACP:END -->
