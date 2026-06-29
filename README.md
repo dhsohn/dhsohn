@@ -5,13 +5,13 @@ Building practical AI-agent systems, research automation, local-LLM learning loo
 <!-- ACP:START -->
 ## Hermes Automation Control Plane
 
-_Public status last changed: 2026-06-29 10:50 KST_
+_Public status last changed: 2026-06-29 11:17 KST_
 
 | Surface | Status |
 | --- | --- |
 | Gateway | 🟢 running |
 | Cron scheduler | 🟢 healthy |
-| Active automations | 🟢 20 enabled |
+| Active automations | 🟢 21 enabled |
 | Delivery errors | 🟢 0 |
 | Kanban blockers | 🟢 0 |
 | RAG indexes | 🟢 fresh |
@@ -36,6 +36,25 @@ _Public status last changed: 2026-06-29 10:50 KST_
 | Chemistry RAG | `███████░░░` 70% | strong | grounded review + RAG judgment |
 | Coding / Repo Tasks | `████░░░░░░` 37% | seed | execution-backed diff/test/judge loop |
 
+### RAG Experts XP
+
+RAG Expert Lv. 7 · XP `███░░░░░░░` 31.1% to next level
+
+| Metric | Value |
+| --- | ---: |
+| Today | +9.1 XP |
+| 7-day average | +48.4 XP/day |
+| Growth streak | 10 days |
+| Next level | 68.9 XP remaining |
+
+| Daily source | XP |
+| --- | ---: |
+| Corpus | 0.0 |
+| Retrieval | 0.0 |
+| Eval | 0.0 |
+| Learning | 9.1 |
+| Ops | 0.0 |
+
 ### Model benchmark scoreboard
 
 | Model | Class | Chemistry RAG | Natural Philosophy | Coding / Repo Tasks |
@@ -46,9 +65,9 @@ _Public status last changed: 2026-06-29 10:50 KST_
 
 ### Snapshot
 
-- Active scheduled automations: **20**
+- Active scheduled automations: **21**
 - Telegram-delivered summaries/watchdogs: **16**
-- Local-only maintenance jobs: **4**
+- Local-only maintenance jobs: **5**
 - Current public alert posture: **green**
 
 This profile page updates automatically when the automation status changes.
