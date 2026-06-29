@@ -7,40 +7,9 @@
 <!-- ACP:START -->
 ## 🎮 Automation RPG HUD
 
-_Auto-save timestamp: 2026-06-29 11:57 KST_
+_Auto-save timestamp: 2026-06-29 12:03 KST_
 
 > **Class:** Automation Alchemist · **Party:** Hermes agents + RAG Experts · **Mode:** deterministic-first quests
-
-### 🛡️ Buff Window — Hermes Automation Control Plane
-
-| Buff | Effect | State |
-| --- | --- | --- |
-| 🌀 Gateway Aura | Cross-platform command channel | 🟢 running |
-| ⏱️ Cron Haste | Scheduled quest engine | 🟢 healthy |
-| 🤖 Automation Party | Active companions | 🟢 21 enabled |
-| 📦 Delivery Ward | Outbound report shield | 🟢 0 |
-| 📜 Quest Board | Blocked tasks | 🟢 0 |
-| 📚 Knowledge Forge | RAG index freshness | 🟢 fresh |
-| 🧪 Apprentice Training | RAG Experts learning loop | 🟡 learning backlog |
-| 🚨 Danger Sense | Manual action needed | 🟢 none |
-
-### 🗺️ Active Questlines
-
-| Questline | Role | Current objective |
-| --- | --- | --- |
-| Research KB / RAG | 📚 Knowledge Forge | Index and refine chemistry + natural-philosophy knowledge bases. |
-| Local LLM Learning | 🧪 Training Grounds | Let local apprentices learn under deterministic checks plus GPT/default guidance. |
-| Market + Community Radar | 🛰️ Scout Tower | Watch public signals with fail-closed reporting. |
-| Infrastructure Watchdogs | 🛡️ Guardian Wards | Keep gateway, cron, harness, and champion status healthy. |
-| Kanban Work Queue | 📜 Quest Board | Route durable multi-profile work without exposing private task details. |
-
-### 🧠 Skill Tree — RAG Experts
-
-| Branch | Mastery | Rank | Current focus |
-| --- | --- | --- | --- |
-| Natural Philosophy | `█████████░` 93% | mature | reasoning curriculum + seminar loop |
-| Chemistry RAG | `███████░░░` 70% | strong | grounded review + RAG judgment |
-| Coding / Repo Tasks | `████░░░░░░` 37% | seed | execution-backed diff/test/judge loop |
 
 ### ⚔️ RAG Experts XP Bar
 
@@ -58,6 +27,14 @@ _Auto-save timestamp: 2026-06-29 11:57 KST_
 
 </div>
 
+### 🧠 Skill Tree — RAG Experts
+
+| Branch | Mastery | Rank | Current focus |
+| --- | --- | --- | --- |
+| Natural Philosophy | `██████████` 98% | mature | reasoning curriculum + seminar loop |
+| Chemistry RAG | `███████░░░` 70% | strong | grounded review + RAG judgment |
+| Coding / Repo Tasks | `████░░░░░░` 37% | seed | execution-backed diff/test/judge loop |
+
 ### 🏟️ Arena Scoreboard — Model Benchmark
 
 | Model | Class | Chemistry RAG | Natural Philosophy | Coding / Repo Tasks |
@@ -66,12 +43,35 @@ _Auto-save timestamp: 2026-06-29 11:57 KST_
 | RAG Experts / gemma4 | local OSS | `▒▒▒▒▒▒░░░░` 60 <sub>n=3</sub> | `▒▒▒▒▒▒▒░░░` 67 <sub>n=3</sub> | `███████░░░` 72 <sub>n=5</sub> |
 | Ollama / gemma4 | OSS baseline | `▒▒▒▒▒▒░░░░` 65 <sub>n=4</sub> | `██████░░░░` 64 <sub>n=5</sub> | `██████░░░░` 64 <sub>n=5</sub> |
 
+### 🛡️ Buff Window — Hermes Automation Control Plane
+
+| Buff | Effect | State |
+| --- | --- | --- |
+| 🌀 Gateway Aura | Cross-platform command channel | 🟢 running |
+| ⏱️ Cron Haste | Scheduled quest engine | 🔴 attention |
+| 🤖 Automation Party | Active companions | 🟢 21 enabled |
+| 📦 Delivery Ward | Outbound report shield | 🟢 0 |
+| 📜 Quest Board | Blocked tasks | 🟢 0 |
+| 📚 Knowledge Forge | RAG index freshness | 🟢 fresh |
+| 🧪 Apprentice Training | RAG Experts learning loop | 🟡 learning backlog |
+| 🚨 Danger Sense | Manual action needed | red attention |
+
+### 🗺️ Active Questlines
+
+| Questline | Role | Current objective |
+| --- | --- | --- |
+| Research KB / RAG | 📚 Knowledge Forge | Index and refine chemistry + natural-philosophy knowledge bases. |
+| Local LLM Learning | 🧪 Training Grounds | Let local apprentices learn under deterministic checks plus GPT/default guidance. |
+| Market + Community Radar | 🛰️ Scout Tower | Watch public signals with fail-closed reporting. |
+| Infrastructure Watchdogs | 🛡️ Guardian Wards | Keep gateway, cron, harness, and champion status healthy. |
+| Kanban Work Queue | 📜 Quest Board | Route durable multi-profile work without exposing private task details. |
+
 ### 💾 Save File
 
 - Active companions: **21**
 - Message-raven routes: **16**
 - Local camp chores: **5**
-- Alert posture: **green**
+- Alert posture: **red**
 
 Auto-saved when public-safe telemetry changes.
 <!-- ACP:END -->
