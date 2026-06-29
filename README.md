@@ -1,53 +1,59 @@
-# daehyupsohn
+# 🧙‍♂️ daehyupsohn — Automation Alchemist
 
-Building practical AI-agent systems, research automation, local-LLM learning loops, and knowledge workflows.
+`AI-agent systems` · `research automation` · `local-LLM apprentices` · `knowledge-forge workflows`
+
+> Building a public-safe game HUD for the automation guild: RAG Experts level up, Hermes buffs stay active, and every scheduled quest leaves deterministic evidence.
 
 <!-- ACP:START -->
-## Hermes Automation Control Plane
+## 🎮 Automation RPG HUD
 
-_Public status last changed: 2026-06-29 11:17 KST_
+_Auto-save timestamp: 2026-06-29 11:17 KST_
 
-| Surface | Status |
-| --- | --- |
-| Gateway | 🟢 running |
-| Cron scheduler | 🟢 healthy |
-| Active automations | 🟢 21 enabled |
-| Delivery errors | 🟢 0 |
-| Kanban blockers | 🟢 0 |
-| RAG indexes | 🟢 fresh |
-| RAG Experts learning loop | 🟡 learning backlog |
-| Manual action needed | 🟢 none |
+> **Class:** Automation Alchemist · **Party:** Hermes agents + RAG Experts · **Mode:** deterministic-first quests
 
-### Automation lanes
+### 🛡️ Buff Window — Hermes Automation Control Plane
 
-| Lane | Public summary |
-| --- | --- |
-| Research KB / RAG | Chemistry and natural-philosophy knowledge bases are indexed and monitored. |
-| Local LLM learning | RAG Experts local model runs are evaluated by deterministic checks plus GPT/default guidance before promotion. |
-| Market and community radar | Public-source digests run with deterministic-first reporting and fail-closed guards. |
-| Infrastructure watchdogs | Gateway, cron, harness, and champion-status health checks watch for actionable incidents. |
-| Kanban work queue | Durable task routing is available for multi-profile agent work; no public task details shown here. |
+| Buff | Effect | State |
+| --- | --- | --- |
+| 🌀 Gateway Aura | Cross-platform command channel | 🟢 running |
+| ⏱️ Cron Haste | Scheduled quest engine | 🟢 healthy |
+| 🤖 Automation Party | Active companions | 🟢 21 enabled |
+| 📦 Delivery Ward | Outbound report shield | 🟢 0 |
+| 📜 Quest Board | Blocked tasks | 🟢 0 |
+| 📚 Knowledge Forge | RAG index freshness | 🟢 fresh |
+| 🧪 Apprentice Training | RAG Experts learning loop | 🟡 learning backlog |
+| 🚨 Danger Sense | Manual action needed | 🟢 none |
 
-### RAG Experts learning map
+### 🗺️ Active Questlines
 
-| Domain | Learning signal | Stage | Focus |
+| Questline | Role | Current objective |
+| --- | --- | --- |
+| Research KB / RAG | 📚 Knowledge Forge | Index and refine chemistry + natural-philosophy knowledge bases. |
+| Local LLM Learning | 🧪 Training Grounds | Let local apprentices learn under deterministic checks plus GPT/default guidance. |
+| Market + Community Radar | 🛰️ Scout Tower | Watch public signals with fail-closed reporting. |
+| Infrastructure Watchdogs | 🛡️ Guardian Wards | Keep gateway, cron, harness, and champion status healthy. |
+| Kanban Work Queue | 📜 Quest Board | Route durable multi-profile work without exposing private task details. |
+
+### 🧠 Skill Tree — RAG Experts
+
+| Branch | Mastery | Rank | Current focus |
 | --- | --- | --- | --- |
 | Natural Philosophy | `█████████░` 93% | mature | reasoning curriculum + seminar loop |
 | Chemistry RAG | `███████░░░` 70% | strong | grounded review + RAG judgment |
 | Coding / Repo Tasks | `████░░░░░░` 37% | seed | execution-backed diff/test/judge loop |
 
-### RAG Experts XP
+### ⚔️ RAG Experts XP Bar
 
 RAG Expert Lv. 7 · XP `███░░░░░░░` 31.1% to next level
 
-| Metric | Value |
+| Quest reward | Value |
 | --- | ---: |
-| Today | +9.1 XP |
-| 7-day average | +48.4 XP/day |
-| Growth streak | 10 days |
-| Next level | 68.9 XP remaining |
+| Today's loot | +9.1 XP |
+| 7-day grind rate | +48.4 XP/day |
+| Combo streak | 10 days |
+| Next level gate | 68.9 XP remaining |
 
-| Daily source | XP |
+| Loot source | XP |
 | --- | ---: |
 | Corpus | 0.0 |
 | Retrieval | 0.0 |
@@ -55,7 +61,7 @@ RAG Expert Lv. 7 · XP `███░░░░░░░` 31.1% to next level
 | Learning | 9.1 |
 | Ops | 0.0 |
 
-### Model benchmark scoreboard
+### 🏟️ Arena Scoreboard — Model Benchmark
 
 | Model | Class | Chemistry RAG | Natural Philosophy | Coding / Repo Tasks |
 | --- | --- | --- | --- | --- |
@@ -63,12 +69,12 @@ RAG Expert Lv. 7 · XP `███░░░░░░░` 31.1% to next level
 | RAG Experts / gemma4 | local OSS | `▒▒▒▒▒▒░░░░` 60 <sub>n=3</sub> | `▒▒▒▒▒▒▒░░░` 67 <sub>n=3</sub> | `███████░░░` 72 <sub>n=5</sub> |
 | Ollama / gemma4 | OSS baseline | `▒▒▒▒▒▒░░░░` 65 <sub>n=4</sub> | `██████░░░░` 64 <sub>n=5</sub> | `██████░░░░` 64 <sub>n=5</sub> |
 
-### Snapshot
+### 💾 Save File
 
-- Active scheduled automations: **21**
-- Telegram-delivered summaries/watchdogs: **16**
-- Local-only maintenance jobs: **5**
-- Current public alert posture: **green**
+- Active companions: **21**
+- Message-raven routes: **16**
+- Local camp chores: **5**
+- Alert posture: **green**
 
-This profile page updates automatically when the automation status changes.
+Auto-saved when public-safe telemetry changes.
 <!-- ACP:END -->
