@@ -7,7 +7,7 @@
 <!-- ACP:START -->
 ## 🎮 Automation RPG HUD
 
-_Auto-save timestamp: 2026-06-29 12:52 KST_
+_Auto-save timestamp: 2026-06-29 13:53 KST_
 
 > **Class:** Automation Alchemist · **Party:** Hermes agents + RAG Experts · **Mode:** deterministic-first quests
 
@@ -17,13 +17,13 @@ _Auto-save timestamp: 2026-06-29 12:52 KST_
 
 <h3>🧙 RAG Expert Lv. 7</h3>
 
-<p><strong>XP:</strong> <code>███░░░░░░░</code> <strong>31.1%</strong> → <strong>Lv. 8</strong></p>
+<p><strong>XP:</strong> <code>████████░░</code> <strong>79.4%</strong> → <strong>Lv. 8</strong></p>
 
-<p><kbd>⚡ Today +12.1 XP</kbd> <kbd>🔥 Streak 10 days</kbd> <kbd>📈 7d avg +48.4/day</kbd></p>
+<p><kbd>⚡ Today +60.4 XP</kbd> <kbd>🔥 Streak 10 days</kbd> <kbd>📈 7d avg +55.3/day</kbd></p>
 
-<p><kbd>📚 Corpus +0.0</kbd> <kbd>🔎 Retrieval +0.0</kbd> <kbd>🏟️ Eval +0.0</kbd> <kbd>🧪 Learning +9.1</kbd> <kbd>🛡️ Ops +3.0</kbd></p>
+<p><kbd>📚 Corpus +45.0</kbd> <kbd>🔎 Retrieval +2.3</kbd> <kbd>🏟️ Eval +0.0</kbd> <kbd>🧪 Learning +9.1</kbd> <kbd>🛡️ Ops +4.0</kbd></p>
 
-<p><sub>Next level gate: 68.9 XP remaining</sub></p>
+<p><sub>Next level gate: 20.6 XP remaining</sub></p>
 
 </div>
 
@@ -48,13 +48,13 @@ _Auto-save timestamp: 2026-06-29 12:52 KST_
 | Buff | Effect | State |
 | --- | --- | --- |
 | 🌀 Gateway Aura | Cross-platform command channel | 🟢 running |
-| ⏱️ Cron Haste | Scheduled quest engine | 🟢 healthy |
+| ⏱️ Cron Haste | Scheduled quest engine | 🔴 attention |
 | 🤖 Automation Party | Active companions | 🟢 21 enabled |
 | 📦 Delivery Ward | Outbound report shield | 🟢 0 |
 | 📜 Quest Board | Blocked tasks | 🟢 0 |
 | 📚 Knowledge Forge | RAG index freshness | 🟢 fresh |
 | 🧪 Apprentice Training | RAG Experts learning loop | 🟡 learning backlog |
-| 🚨 Danger Sense | Manual action needed | 🟢 none |
+| 🚨 Danger Sense | Manual action needed | red attention |
 
 ### 🗺️ Active Questlines
 
@@ -71,7 +71,7 @@ _Auto-save timestamp: 2026-06-29 12:52 KST_
 - Active companions: **21**
 - Message-raven routes: **16**
 - Local camp chores: **5**
-- Alert posture: **green**
+- Alert posture: **red**
 
 Auto-saved when public-safe telemetry changes.
 <!-- ACP:END -->
