@@ -44,22 +44,19 @@ _Auto-save timestamp: 2026-06-29 11:51 KST_
 
 ### ⚔️ RAG Experts XP Bar
 
-RAG Expert Lv. 7 · XP `███░░░░░░░` 31.1% to next level
+<div align="center">
 
-| Quest reward | Value |
-| --- | ---: |
-| Today's loot | +9.1 XP |
-| 7-day grind rate | +48.4 XP/day |
-| Combo streak | 10 days |
-| Next level gate | 68.9 XP remaining |
+<h3>🧙 RAG Expert Lv. 7</h3>
 
-| Loot source | XP |
-| --- | ---: |
-| Corpus | 0.0 |
-| Retrieval | 0.0 |
-| Eval | 0.0 |
-| Learning | 9.1 |
-| Ops | 0.0 |
+<p><strong>XP:</strong> <code>███░░░░░░░</code> <strong>31.1%</strong> → <strong>Lv. 8</strong></p>
+
+<p><kbd>⚡ Today +9.1 XP</kbd> <kbd>🔥 Streak 10 days</kbd> <kbd>📈 7d avg +48.4/day</kbd></p>
+
+<p><kbd>📚 Corpus +0.0</kbd> <kbd>🔎 Retrieval +0.0</kbd> <kbd>🏟️ Eval +0.0</kbd> <kbd>🧪 Learning +9.1</kbd> <kbd>🛡️ Ops +0.0</kbd></p>
+
+<p><sub>Next level gate: 68.9 XP remaining</sub></p>
+
+</div>
 
 ### 🏟️ Arena Scoreboard — Model Benchmark
 
