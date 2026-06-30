@@ -7,7 +7,7 @@
 <!-- ACP:START -->
 ## 🎮 Automation RPG HUD
 
-_Auto-save timestamp: 2026-06-30 08:10 KST_
+_Auto-save timestamp: 2026-06-30 09:10 KST_
 
 > **Class:** Automation Alchemist · **Party:** Hermes agents + RAG Experts · **Mode:** deterministic-first quests
 
@@ -15,15 +15,15 @@ _Auto-save timestamp: 2026-06-30 08:10 KST_
 
 <div align="center">
 
-<h3>🧙 RAG Expert Lv. 8</h3>
+<h3>🧙 RAG Expert Lv. 9</h3>
 
-<p><strong>XP:</strong> <code>█████░░░░░</code> <strong>46.4%</strong> → <strong>Lv. 9</strong></p>
+<p><strong>XP:</strong> <code>█░░░░░░░░░</code> <strong>7.7%</strong> → <strong>Lv. 10</strong></p>
 
-<p><kbd>⚡ Today +127.4 XP</kbd> <kbd>🔥 Streak 10 days</kbd> <kbd>📈 7d avg +64.8/day</kbd></p>
+<p><kbd>⚡ Today +0.0 XP</kbd> <kbd>🔥 Streak 10 days</kbd> <kbd>📈 7d avg +60.8/day</kbd></p>
 
-<p><kbd>📚 Corpus +90.0</kbd> <kbd>🔎 Retrieval +22.3</kbd> <kbd>🏟️ Eval +0.0</kbd> <kbd>🧪 Learning +9.1</kbd> <kbd>🛡️ Ops +6.0</kbd></p>
+<p><kbd>📚 Corpus +0.0</kbd> <kbd>🔎 Retrieval +0.0</kbd> <kbd>🏟️ Eval +0.0</kbd> <kbd>🧪 Learning +0.0</kbd> <kbd>🛡️ Ops +0.0</kbd></p>
 
-<p><sub>Next level gate: 53.6 XP remaining</sub></p>
+<p><sub>Next level gate: 92.3 XP remaining</sub></p>
 
 </div>
 
@@ -31,7 +31,7 @@ _Auto-save timestamp: 2026-06-30 08:10 KST_
 
 | Branch | Mastery | Rank | Current focus |
 | --- | --- | --- | --- |
-| Natural Philosophy | `██████████` 98% | mature | reasoning curriculum + seminar loop |
+| Natural Philosophy | `██████████` 99% | mature | reasoning curriculum + seminar loop |
 | Chemistry RAG | `███████░░░` 70% | strong | grounded review + RAG judgment |
 | Coding / Repo Tasks | `████░░░░░░` 37% | seed | execution-backed diff/test/judge loop |
 
