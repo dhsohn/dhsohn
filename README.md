@@ -7,7 +7,7 @@
 <!-- ACP:START -->
 ## 🎮 Automation RPG HUD
 
-_Auto-save timestamp: 2026-06-30 13:13 KST_
+_Auto-save timestamp: 2026-06-30 14:14 KST_
 
 > **Class:** Automation Alchemist · **Party:** Hermes agents + RAG Experts · **Mode:** deterministic-first quests
 
@@ -31,7 +31,7 @@ _Auto-save timestamp: 2026-06-30 13:13 KST_
 
 | Branch | Mastery | Rank | Current focus |
 | --- | --- | --- | --- |
-| Natural Philosophy | `██████████` 99% | mature | reasoning curriculum + seminar loop |
+| Natural Philosophy | `████████░░` 79% | strong | reasoning curriculum + seminar loop |
 | Chemistry RAG | `███████░░░` 70% | strong | grounded review + RAG judgment |
 | Coding / Repo Tasks | `████░░░░░░` 37% | seed | execution-backed diff/test/judge loop |
 
