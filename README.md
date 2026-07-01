@@ -5,17 +5,17 @@
 > Building a public-safe game HUD for the automation guild: RAG Experts level up, Hermes buffs stay active, and every scheduled quest leaves deterministic evidence.
 
 <!-- ACP:START -->
-## 🎮 Automation RPG HUD
+## Automation RPG HUD
 
-_Auto-save timestamp: 2026-07-02 04:51 KST_
+_Auto-save timestamp: 2026-07-02 04:59 KST_
 
 > **Class:** Automation Alchemist · **Party:** Hermes agents + RAG Experts · **Mode:** deterministic-first quests
 
-### ⚔️ RAG Experts XP Bar
+### RAG Experts XP Bar
 
 <div align="center">
 
-<h3>🧙 RAG Expert Lv. 9</h3>
+<h3>RAG Expert Lv. 9</h3>
 
 <p><strong>XP:</strong> <code>████░░░░░░</code> <strong>39.1%</strong> → <strong>Lv. 10</strong></p>
 
@@ -27,7 +27,7 @@ _Auto-save timestamp: 2026-07-02 04:51 KST_
 
 </div>
 
-### 🧑‍🤝‍🧑 Party Member List — RAG Experts
+### Party Member List — RAG Experts
 
 _Companion/agent capability, not the human author's personal mastery._
 
@@ -37,7 +37,7 @@ _Companion/agent capability, not the human author's personal mastery._
 | Chemistry RAG Expert | `████░░░░░░` 44% | `░░░░░░░░░░` 0% miss | growing | grounded review + RAG judgment |
 | Coding / Repo Expert | `█░░░░░░░░░` 10% | `░░░░░░░░░░` 0% miss | seed | execution-backed diff/test/judge loop |
 
-### 🏟️ Arena Scoreboard — Model Benchmark
+### Arena Scoreboard — Model Benchmark
 
 | Model | Class | Chemistry RAG | Natural Philosophy | Coding / Repo Tasks |
 | --- | --- | --- | --- | --- |
@@ -45,7 +45,7 @@ _Companion/agent capability, not the human author's personal mastery._
 | RAG Experts / gemma4 | local OSS | `▒▒▒▒▒▒░░░░` 60 <sub>n=3</sub> | `▒▒▒▒▒▒▒░░░` 67 <sub>n=3</sub> | `███████░░░` 72 <sub>n=5</sub> |
 | Ollama / gemma4 | OSS baseline | `▒▒▒▒▒▒░░░░` 65 <sub>n=4</sub> | `██████░░░░` 64 <sub>n=5</sub> | `██████░░░░` 64 <sub>n=5</sub> |
 
-### 🛡️ Buff Window — Hermes Automation Control Plane
+### Buff Window — Hermes Automation Control Plane
 
 | Buff | Effect | State |
 | --- | --- | --- |
@@ -58,7 +58,7 @@ _Companion/agent capability, not the human author's personal mastery._
 | 🧪 Apprentice Training | RAG Experts learning loop | 🟡 learning backlog |
 | 🚨 Danger Sense | Manual action needed | 🟢 none |
 
-### 🗺️ Active Questlines
+### Active Questlines
 
 | Questline | Role | Current objective |
 | --- | --- | --- |
@@ -68,7 +68,7 @@ _Companion/agent capability, not the human author's personal mastery._
 | Infrastructure Watchdogs | 🛡️ Guardian Wards | Keep gateway, cron, harness, and champion status healthy. |
 | Kanban Work Queue | 📜 Quest Board | Route durable multi-profile work without exposing private task details. |
 
-### 💾 Save File
+### Save File
 
 - Active companions: **21**
 - Message-raven routes: **16**
