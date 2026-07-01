@@ -7,7 +7,7 @@ I build reliable AI-assisted research tools: local RAG/MCP advisors, fail-closed
 <!-- ACP:START -->
 ## RAG Expert Systems and Automation Harness
 
-_Public technical snapshot, regenerated from local automation telemetry: 2026-07-02 07:45 KST._
+_Public technical snapshot, regenerated from local automation telemetry: 2026-07-02 08:46 KST._
 
 This public snapshot summarizes the RAG Expert training loop, model-evaluation signals, and operational health of the automation harness.
 
@@ -32,8 +32,8 @@ This public snapshot summarizes the RAG Expert training loop, model-evaluation s
 
 | Expert system | Eval/repo cases | Learning events | Corpus chunks | Cumulative index | Latest sample | Training objective |
 | --- | --- | --- | --- | --- | --- | --- |
-| Natural Philosophy Expert | 81/120 | 26/80 | 102/300 | 0.48 | 0.00 (miss) | reasoning curriculum + seminar loop |
-| Chemistry RAG Expert | 14/60 | 36/100 | 15910/20000 | 0.44 | 0.00 (miss) | grounded review + RAG judgment |
+| Natural Philosophy Expert | 81/120 | 26/80 | 107/300 | 0.49 | 0.00 (miss) | reasoning curriculum + seminar loop |
+| Chemistry RAG Expert | 14/60 | 36/100 | 15960/20000 | 0.44 | 0.00 (miss) | grounded review + RAG judgment |
 | Coding / Repo Expert | repo cases 1/10 | not applicable | not applicable | 0.10 | 0.00 (miss) | execution-backed diff/test/judge loop |
 
 ### Model evaluation snapshot
@@ -49,13 +49,13 @@ This public snapshot summarizes the RAG Expert training loop, model-evaluation s
 | Subsystem | Function | Current state |
 | --- | --- | --- |
 | Gateway | Cross-platform command channel | running |
-| Cron scheduler | Scheduled automation runner | healthy |
-| Active automations | Enabled cron/no-agent jobs | 21 enabled |
-| Delivery monitor | Outbound report failures | 0 |
+| Cron scheduler | Scheduled automation runner | attention |
+| Active automations | Enabled cron/no-agent jobs | 22 enabled |
+| Delivery monitor | Outbound report failures | 1 |
 | Kanban queue | Blocked durable tasks | 0 |
 | RAG indexes | Knowledge-base freshness | fresh |
 | RAG Experts learning loop | Local RAG Expert training and evaluation | training backlog |
-| Manual action | Operator intervention required | none |
+| Manual action | Operator intervention required | red attention |
 
 ### Active technical tracks
 
@@ -71,10 +71,10 @@ This public snapshot summarizes the RAG Expert training loop, model-evaluation s
 
 | Metric | Value |
 | --- | ---: |
-| Active scheduled automations | 21 |
+| Active scheduled automations | 22 |
 | Message delivery routes | 16 |
-| Local-only jobs | 5 |
-| Public alert posture | green |
+| Local-only jobs | 6 |
+| Public alert posture | red |
 
 Auto-generated from public-safe automation telemetry.
 <!-- ACP:END -->
