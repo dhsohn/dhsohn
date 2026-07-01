@@ -7,9 +7,9 @@ I build reliable AI-assisted research tools: local RAG/MCP advisors, fail-closed
 <!-- ACP:START -->
 ## RAG Expert Systems and Automation Harness
 
-_Public technical snapshot, regenerated from local automation telemetry: 2026-07-02 05:09 KST._
+_Public technical snapshot, regenerated from local automation telemetry: 2026-07-02 05:11 KST._
 
-I build local-first RAG/MCP advisors, evaluation-driven agent workflows, and fail-closed automation harnesses for research and technical knowledge work.
+This public snapshot summarizes the RAG Expert training loop, model-evaluation signals, and operational health of the automation harness.
 
 ### Technical focus
 
