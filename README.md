@@ -7,7 +7,7 @@
 <!-- ACP:START -->
 ## 🎮 Automation RPG HUD
 
-_Auto-save timestamp: 2026-07-01 11:35 KST_
+_Auto-save timestamp: 2026-07-01 12:36 KST_
 
 > **Class:** Automation Alchemist · **Party:** Hermes agents + RAG Experts · **Mode:** deterministic-first quests
 
@@ -19,9 +19,9 @@ _Auto-save timestamp: 2026-07-01 11:35 KST_
 
 <p><strong>XP:</strong> <code>████░░░░░░</code> <strong>39.1%</strong> → <strong>Lv. 10</strong></p>
 
-<p><kbd>⚡ Today +9.4 XP</kbd> <kbd>🔥 Streak 12 days</kbd> <kbd>📈 7d avg +61.6/day</kbd></p>
+<p><kbd>⚡ Today +12.4 XP</kbd> <kbd>🔥 Streak 12 days</kbd> <kbd>📈 7d avg +61.6/day</kbd></p>
 
-<p><kbd>📚 Corpus +0.0</kbd> <kbd>🔎 Retrieval +0.0</kbd> <kbd>🏟️ Eval +0.0</kbd> <kbd>🧪 Learning +9.4</kbd> <kbd>🛡️ Ops +0.0</kbd></p>
+<p><kbd>📚 Corpus +0.0</kbd> <kbd>🔎 Retrieval +0.0</kbd> <kbd>🏟️ Eval +0.0</kbd> <kbd>🧪 Learning +9.4</kbd> <kbd>🛡️ Ops +3.0</kbd></p>
 
 <p><sub>Next level gate: 60.9 XP remaining</sub></p>
 
