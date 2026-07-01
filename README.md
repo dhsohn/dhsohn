@@ -7,7 +7,7 @@ I build reliable AI-assisted research tools: local RAG/MCP advisors, fail-closed
 <!-- ACP:START -->
 ## RAG Expert Systems and Automation Harness
 
-_Public technical snapshot, regenerated from local automation telemetry: 2026-07-02 05:29 KST._
+_Public technical snapshot, regenerated from local automation telemetry: 2026-07-02 05:30 KST._
 
 This public snapshot summarizes the RAG Expert training loop, model-evaluation signals, and operational health of the automation harness.
 
@@ -24,7 +24,7 @@ This public snapshot summarizes the RAG Expert training loop, model-evaluation s
 | Reported quantity | Calculation basis | Reporting unit |
 | --- | --- | --- |
 | Cumulative capability index | Weighted mean of capped evidence components. RAG domains use evaluation-case coverage with weight 0.35, learning-event coverage with weight 0.20, and corpus-chunk coverage with weight 0.25; available components are normalized by their total weight. Coding/repo capability uses repo-task case coverage against its threshold. A state ledger prevents reported cumulative indexes from decreasing. | 0.00-1.00 index |
-| Latest sample | Most recent RAG Expert/localworker sample pass rate, reported separately from cumulative evidence so a failed sample does not erase prior progress. | 0.00-1.00 rate plus label |
+| Latest sample | Most recent RAG Expert/localworker sample pass rate, reported separately from cumulative evidence so a failed sample does not erase prior evidence. | 0.00-1.00 rate plus label |
 | Model benchmark score | Normalized mean score across evaluated cases; n is the scored case count for that domain/model pair. | score/100; n cases |
 | Harness operation state | Direct status from gateway, cron, delivery, RAG-index, Kanban, and drift-check probes. | text status |
 
@@ -56,7 +56,7 @@ _Agent-system capability indicators; not the human author's personal domain mast
 | Delivery monitor | Outbound report failures | 0 |
 | Kanban queue | Blocked durable tasks | 0 |
 | RAG indexes | Knowledge-base freshness | fresh |
-| RAG Experts learning loop | Local apprentice training and evaluation | learning backlog |
+| RAG Experts learning loop | Local RAG Expert training and evaluation | training backlog |
 | Manual action | Operator intervention required | none |
 
 ### Active technical tracks
