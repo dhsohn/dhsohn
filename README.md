@@ -7,7 +7,7 @@ I build reliable AI-assisted research tools: local RAG/MCP advisors, fail-closed
 <!-- ACP:START -->
 ## RAG Expert Systems and Automation Harness
 
-_Public technical snapshot, regenerated from local automation telemetry: 2026-07-02 05:45 KST._
+_Public technical snapshot, regenerated from local automation telemetry: 2026-07-02 05:50 KST._
 
 This public snapshot summarizes the RAG Expert training loop, model-evaluation signals, and operational health of the automation harness.
 
@@ -29,8 +29,6 @@ This public snapshot summarizes the RAG Expert training loop, model-evaluation s
 | Harness operation state | Direct status from gateway, cron, delivery, RAG-index, Kanban, and drift-check probes. | text status |
 
 ### RAG Expert capability matrix
-
-_Agent-system capability indicators; not the human author's personal domain mastery._
 
 | Expert system | Eval/repo cases | Learning events | Corpus chunks | Cumulative index | Latest sample | Training objective |
 | --- | --- | --- | --- | --- | --- | --- |
