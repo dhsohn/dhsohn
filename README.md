@@ -1,8 +1,8 @@
-# 🧙‍♂️ daehyupsohn — Automation Alchemist
+# Dae Hyup Sohn
 
-`AI-agent systems` · `research automation` · `local-LLM apprentices` · `knowledge-forge workflows`
+`scientific AI tooling` · `research automation` · `local RAG/MCP systems` · `evaluation-driven agents`
 
-> Building a public-safe game HUD for the automation guild: RAG Experts level up, Hermes buffs stay active, and every scheduled quest leaves deterministic evidence.
+I build reliable AI-assisted research tools: local RAG/MCP advisors, fail-closed automation harnesses, and evaluation-driven LLM workflows for scientific and technical knowledge work.
 
 <!-- ACP:START -->
 ## RAG Expert Systems and Automation Harness
