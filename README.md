@@ -7,7 +7,7 @@ I build reliable AI-assisted research tools: local RAG/MCP advisors, fail-closed
 <!-- ACP:START -->
 ## RAG Expert Systems and Automation Harness
 
-_Public technical snapshot, regenerated from local automation telemetry: 2026-07-02 05:11 KST._
+_Public technical snapshot, regenerated from local automation telemetry: 2026-07-02 05:29 KST._
 
 This public snapshot summarizes the RAG Expert training loop, model-evaluation signals, and operational health of the automation harness.
 
@@ -19,33 +19,32 @@ This public snapshot summarizes the RAG Expert training loop, model-evaluation s
 | Automation harness | Cron/no-agent jobs, Kanban routing, source/runtime drift checks, and fail-closed monitoring. |
 | Research workflows | Provenance-aware chemistry and natural-philosophy knowledge bases with review-oriented retrieval. |
 
-### RAG Experts training progress
+### Evaluation scoring criteria
 
-| Metric | Value |
-| --- | --- |
-| Capability level | 9 |
-| Progress to next level | `████░░░░░░` 39.1% toward level 10 |
-| Latest growth signal | +12.4 index points today; +61.6/day 7-day average; 12 consecutive days |
-| Signal categories | Corpus +0.0; Retrieval +0.0; Eval +0.0; Learning +9.4; Ops +3.0 |
-| Remaining to next level | 60.9 index points |
+| Reported quantity | Calculation basis | Reporting unit |
+| --- | --- | --- |
+| Cumulative capability index | Weighted mean of capped evidence components. RAG domains use evaluation-case coverage with weight 0.35, learning-event coverage with weight 0.20, and corpus-chunk coverage with weight 0.25; available components are normalized by their total weight. Coding/repo capability uses repo-task case coverage against its threshold. A state ledger prevents reported cumulative indexes from decreasing. | 0.00-1.00 index |
+| Latest sample | Most recent RAG Expert/localworker sample pass rate, reported separately from cumulative evidence so a failed sample does not erase prior progress. | 0.00-1.00 rate plus label |
+| Model benchmark score | Normalized mean score across evaluated cases; n is the scored case count for that domain/model pair. | score/100; n cases |
+| Harness operation state | Direct status from gateway, cron, delivery, RAG-index, Kanban, and drift-check probes. | text status |
 
 ### RAG Expert capability matrix
 
 _Agent-system capability indicators; not the human author's personal domain mastery._
 
-| Expert system | Cumulative capability | Latest sample | Status | Training objective |
-| --- | --- | --- | --- | --- |
-| Natural Philosophy Expert | `█████░░░░░` 48% | `░░░░░░░░░░` 0% miss | growing | reasoning curriculum + seminar loop |
-| Chemistry RAG Expert | `████░░░░░░` 44% | `░░░░░░░░░░` 0% miss | growing | grounded review + RAG judgment |
-| Coding / Repo Expert | `█░░░░░░░░░` 10% | `░░░░░░░░░░` 0% miss | seed | execution-backed diff/test/judge loop |
+| Expert system | Eval/repo cases | Learning events | Corpus chunks | Cumulative index | Latest sample | Training objective |
+| --- | --- | --- | --- | --- | --- | --- |
+| Natural Philosophy Expert | 81/120 | 26/80 | 102/300 | 0.48 | 0.00 (miss) | reasoning curriculum + seminar loop |
+| Chemistry RAG Expert | 14/60 | 36/100 | 15910/20000 | 0.44 | 0.00 (miss) | grounded review + RAG judgment |
+| Coding / Repo Expert | repo cases 1/10 | not applicable | not applicable | 0.10 | 0.00 (miss) | execution-backed diff/test/judge loop |
 
 ### Model evaluation snapshot
 
 | Model | Class | Chemistry RAG | Natural Philosophy | Coding / Repo Tasks |
 | --- | --- | --- | --- | --- |
-| GPT-5.5 / default | frontier | `█████████░` 92 <sub>n=5</sub> | `▒▒▒▒▒▒▒▒░░` 85 <sub>n=4</sub> | `█████████░` 90 <sub>n=6</sub> |
-| RAG Experts / gemma4 | local OSS | `▒▒▒▒▒▒░░░░` 60 <sub>n=3</sub> | `▒▒▒▒▒▒▒░░░` 67 <sub>n=3</sub> | `███████░░░` 72 <sub>n=5</sub> |
-| Ollama / gemma4 | OSS baseline | `▒▒▒▒▒▒░░░░` 65 <sub>n=4</sub> | `██████░░░░` 64 <sub>n=5</sub> | `██████░░░░` 64 <sub>n=5</sub> |
+| GPT-5.5 / default | frontier | 92/100; n=5 | 85/100; n=4 | 90/100; n=6 |
+| RAG Experts / gemma4 | local OSS | 60/100; n=3 | 67/100; n=3 | 72/100; n=5 |
+| Ollama / gemma4 | OSS baseline | 65/100; n=4 | 64/100; n=5 | 64/100; n=5 |
 
 ### Automation harness operations
 
