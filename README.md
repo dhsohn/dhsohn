@@ -5,39 +5,41 @@
 > Building a public-safe game HUD for the automation guild: RAG Experts level up, Hermes buffs stay active, and every scheduled quest leaves deterministic evidence.
 
 <!-- ACP:START -->
-## Automation RPG HUD
+## RAG Expert Systems and Automation Harness
 
-_Auto-save timestamp: 2026-07-02 04:59 KST_
+_Public technical snapshot, regenerated from local automation telemetry: 2026-07-02 05:09 KST._
 
-> **Class:** Automation Alchemist · **Party:** Hermes agents + RAG Experts · **Mode:** deterministic-first quests
+I build local-first RAG/MCP advisors, evaluation-driven agent workflows, and fail-closed automation harnesses for research and technical knowledge work.
 
-### RAG Experts XP Bar
+### Technical focus
 
-<div align="center">
+| Area | Implementation focus |
+| --- | --- |
+| RAG Experts | Local RAG/MCP advisors with domain retrieval, prompt contracts, and evaluation loops. |
+| Automation harness | Cron/no-agent jobs, Kanban routing, source/runtime drift checks, and fail-closed monitoring. |
+| Research workflows | Provenance-aware chemistry and natural-philosophy knowledge bases with review-oriented retrieval. |
 
-<h3>RAG Expert Lv. 9</h3>
+### RAG Experts training progress
 
-<p><strong>XP:</strong> <code>████░░░░░░</code> <strong>39.1%</strong> → <strong>Lv. 10</strong></p>
+| Metric | Value |
+| --- | --- |
+| Capability level | 9 |
+| Progress to next level | `████░░░░░░` 39.1% toward level 10 |
+| Latest growth signal | +12.4 index points today; +61.6/day 7-day average; 12 consecutive days |
+| Signal categories | Corpus +0.0; Retrieval +0.0; Eval +0.0; Learning +9.4; Ops +3.0 |
+| Remaining to next level | 60.9 index points |
 
-<p><kbd>⚡ Today +12.4 XP</kbd> <kbd>🔥 Streak 12 days</kbd> <kbd>📈 7d avg +61.6/day</kbd></p>
+### RAG Expert capability matrix
 
-<p><kbd>📚 Corpus +0.0</kbd> <kbd>🔎 Retrieval +0.0</kbd> <kbd>🏟️ Eval +0.0</kbd> <kbd>🧪 Learning +9.4</kbd> <kbd>🛡️ Ops +3.0</kbd></p>
+_Agent-system capability indicators; not the human author's personal domain mastery._
 
-<p><sub>Next level gate: 60.9 XP remaining</sub></p>
-
-</div>
-
-### Party Member List — RAG Experts
-
-_Companion/agent capability, not the human author's personal mastery._
-
-| Party Member | Agent Mastery | Recent Trial | Rank | Party role |
+| Expert system | Cumulative capability | Latest sample | Status | Training objective |
 | --- | --- | --- | --- | --- |
 | Natural Philosophy Expert | `█████░░░░░` 48% | `░░░░░░░░░░` 0% miss | growing | reasoning curriculum + seminar loop |
 | Chemistry RAG Expert | `████░░░░░░` 44% | `░░░░░░░░░░` 0% miss | growing | grounded review + RAG judgment |
 | Coding / Repo Expert | `█░░░░░░░░░` 10% | `░░░░░░░░░░` 0% miss | seed | execution-backed diff/test/judge loop |
 
-### Arena Scoreboard — Model Benchmark
+### Model evaluation snapshot
 
 | Model | Class | Chemistry RAG | Natural Philosophy | Coding / Repo Tasks |
 | --- | --- | --- | --- | --- |
@@ -45,35 +47,37 @@ _Companion/agent capability, not the human author's personal mastery._
 | RAG Experts / gemma4 | local OSS | `▒▒▒▒▒▒░░░░` 60 <sub>n=3</sub> | `▒▒▒▒▒▒▒░░░` 67 <sub>n=3</sub> | `███████░░░` 72 <sub>n=5</sub> |
 | Ollama / gemma4 | OSS baseline | `▒▒▒▒▒▒░░░░` 65 <sub>n=4</sub> | `██████░░░░` 64 <sub>n=5</sub> | `██████░░░░` 64 <sub>n=5</sub> |
 
-### Buff Window — Hermes Automation Control Plane
+### Automation harness operations
 
-| Buff | Effect | State |
+| Subsystem | Function | Current state |
 | --- | --- | --- |
-| 🌀 Gateway Aura | Cross-platform command channel | 🟢 running |
-| ⏱️ Cron Haste | Scheduled quest engine | 🟢 healthy |
-| 🤖 Automation Party | Active companions | 🟢 21 enabled |
-| 📦 Delivery Ward | Outbound report shield | 🟢 0 |
-| 📜 Quest Board | Blocked tasks | 🟢 0 |
-| 📚 Knowledge Forge | RAG index freshness | 🟢 fresh |
-| 🧪 Apprentice Training | RAG Experts learning loop | 🟡 learning backlog |
-| 🚨 Danger Sense | Manual action needed | 🟢 none |
+| Gateway | Cross-platform command channel | running |
+| Cron scheduler | Scheduled automation runner | healthy |
+| Active automations | Enabled cron/no-agent jobs | 21 enabled |
+| Delivery monitor | Outbound report failures | 0 |
+| Kanban queue | Blocked durable tasks | 0 |
+| RAG indexes | Knowledge-base freshness | fresh |
+| RAG Experts learning loop | Local apprentice training and evaluation | learning backlog |
+| Manual action | Operator intervention required | none |
 
-### Active Questlines
+### Active technical tracks
 
-| Questline | Role | Current objective |
+| Track | Scope | Current objective |
 | --- | --- | --- |
-| Research KB / RAG | 📚 Knowledge Forge | Index and refine chemistry + natural-philosophy knowledge bases. |
-| Local LLM Learning | 🧪 Training Grounds | Let local apprentices learn under deterministic checks plus GPT/default guidance. |
-| Market + Community Radar | 🛰️ Scout Tower | Watch public signals with fail-closed reporting. |
-| Infrastructure Watchdogs | 🛡️ Guardian Wards | Keep gateway, cron, harness, and champion status healthy. |
-| Kanban Work Queue | 📜 Quest Board | Route durable multi-profile work without exposing private task details. |
+| Research KB / RAG | Domain knowledge systems | Maintain chemistry and natural-philosophy retrieval with provenance-aware ingestion. |
+| Local LLM evaluation | Training and regression checks | Improve local RAG Expert behavior under deterministic checks plus frontier-model guidance. |
+| Signal monitoring | Scheduled collectors and reports | Track public technical and market signals with fail-closed source collection. |
+| Infrastructure reliability | Gateway, cron, harness, and drift checks | Keep runtime automation synchronized with source-controlled manifests. |
+| Kanban work queue | Durable multi-agent routing | Route implementation and review work without exposing private task details. |
 
-### Save File
+### Public telemetry snapshot
 
-- Active companions: **21**
-- Message-raven routes: **16**
-- Local camp chores: **5**
-- Alert posture: **green**
+| Metric | Value |
+| --- | ---: |
+| Active scheduled automations | 21 |
+| Message delivery routes | 16 |
+| Local-only jobs | 5 |
+| Public alert posture | green |
 
-Auto-saved when public-safe telemetry changes.
+Auto-generated from public-safe automation telemetry.
 <!-- ACP:END -->
