@@ -7,7 +7,7 @@
 <!-- ACP:START -->
 ## 🎮 Automation RPG HUD
 
-_Auto-save timestamp: 2026-07-02 04:29 KST_
+_Auto-save timestamp: 2026-07-02 04:40 KST_
 
 > **Class:** Automation Alchemist · **Party:** Hermes agents + RAG Experts · **Mode:** deterministic-first quests
 
@@ -27,13 +27,15 @@ _Auto-save timestamp: 2026-07-02 04:29 KST_
 
 </div>
 
-### 🧠 Skill Tree — RAG Experts
+### 🧠 RAG Experts Capability Tree
 
-| Branch | Mastery | Recent Trial | Rank | Current focus |
+_Agent/apprentice capability, not the human author's personal mastery._
+
+| RAG Expert | Agent Mastery | Recent Trial | Rank | Training focus |
 | --- | --- | --- | --- | --- |
-| Natural Philosophy | `██████████` 100% | `░░░░░░░░░░` 0% miss | mature | reasoning curriculum + seminar loop |
-| Chemistry RAG | `█████████░` 87% | `░░░░░░░░░░` 0% miss | mature | grounded review + RAG judgment |
-| Coding / Repo Tasks | `█░░░░░░░░░` 10% | `░░░░░░░░░░` 0% miss | seed | execution-backed diff/test/judge loop |
+| Natural Philosophy Expert | `█████░░░░░` 48% | `░░░░░░░░░░` 0% miss | growing | reasoning curriculum + seminar loop |
+| Chemistry RAG Expert | `████░░░░░░` 44% | `░░░░░░░░░░` 0% miss | seed | grounded review + RAG judgment |
+| Coding / Repo Expert | `█░░░░░░░░░` 10% | `░░░░░░░░░░` 0% miss | seed | execution-backed diff/test/judge loop |
 
 ### 🏟️ Arena Scoreboard — Model Benchmark
 
