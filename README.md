@@ -7,7 +7,7 @@
 <!-- ACP:START -->
 ## 🎮 Automation RPG HUD
 
-_Auto-save timestamp: 2026-07-02 04:44 KST_
+_Auto-save timestamp: 2026-07-02 04:51 KST_
 
 > **Class:** Automation Alchemist · **Party:** Hermes agents + RAG Experts · **Mode:** deterministic-first quests
 
@@ -27,11 +27,11 @@ _Auto-save timestamp: 2026-07-02 04:44 KST_
 
 </div>
 
-### 🧠 RAG Experts Capability Tree
+### 🧑‍🤝‍🧑 Party Member List — RAG Experts
 
-_Agent/apprentice capability, not the human author's personal mastery._
+_Companion/agent capability, not the human author's personal mastery._
 
-| RAG Expert | Agent Mastery | Recent Trial | Rank | Training focus |
+| Party Member | Agent Mastery | Recent Trial | Rank | Party role |
 | --- | --- | --- | --- | --- |
 | Natural Philosophy Expert | `█████░░░░░` 48% | `░░░░░░░░░░` 0% miss | growing | reasoning curriculum + seminar loop |
 | Chemistry RAG Expert | `████░░░░░░` 44% | `░░░░░░░░░░` 0% miss | growing | grounded review + RAG judgment |
