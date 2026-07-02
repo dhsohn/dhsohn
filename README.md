@@ -7,7 +7,7 @@ I build reliable AI-assisted research tools: local RAG/MCP advisors, fail-closed
 <!-- ACP:START -->
 ## RAG Expert Systems and Automation Harness
 
-_Public technical snapshot, regenerated from local automation telemetry: 2026-07-02 11:49 KST._
+_Public technical snapshot, regenerated from local automation telemetry: 2026-07-02 12:50 KST._
 
 This public snapshot summarizes the RAG Expert training loop, model-evaluation signals, and operational health of the automation harness.
 
@@ -32,8 +32,8 @@ This public snapshot summarizes the RAG Expert training loop, model-evaluation s
 
 | Expert system | Eval/repo cases | Learning events | Corpus chunks | Cumulative index | Latest sample | Training objective |
 | --- | --- | --- | --- | --- | --- | --- |
-| Natural Philosophy Expert | 81/120 | 26/80 | 107/300 | 0.49 | 0.00 (miss) | reasoning curriculum + seminar loop |
-| Chemistry RAG Expert | 14/60 | 36/100 | 15960/20000 | 0.44 | 0.00 (miss) | grounded review + RAG judgment |
+| Natural Philosophy Expert | 88/120 | 28/80 | 107/300 | 0.52 | 0.00 (miss) | reasoning curriculum + seminar loop |
+| Chemistry RAG Expert | 14/60 | 37/100 | 15960/20000 | 0.44 | 0.00 (miss) | grounded review + RAG judgment |
 | Coding / Repo Expert | repo cases 1/10 | not applicable | not applicable | 0.10 | 0.00 (miss) | execution-backed diff/test/judge loop |
 
 ### Model evaluation snapshot
